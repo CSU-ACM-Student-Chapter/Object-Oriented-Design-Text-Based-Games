@@ -1,0 +1,14 @@
+C:\Users\jaden\source\repos\OperationWatergate\OperationWatergate\bin\Debug\net6.0\OperationWatergate.exe
+C:\Users\jaden\source\repos\OperationWatergate\OperationWatergate\bin\Debug\net6.0\OperationWatergate.deps.json
+C:\Users\jaden\source\repos\OperationWatergate\OperationWatergate\bin\Debug\net6.0\OperationWatergate.runtimeconfig.json
+C:\Users\jaden\source\repos\OperationWatergate\OperationWatergate\bin\Debug\net6.0\OperationWatergate.dll
+C:\Users\jaden\source\repos\OperationWatergate\OperationWatergate\bin\Debug\net6.0\OperationWatergate.pdb
+C:\Users\jaden\source\repos\OperationWatergate\OperationWatergate\obj\Debug\net6.0\OperationWatergate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaden\source\repos\OperationWatergate\OperationWatergate\obj\Debug\net6.0\OperationWatergate.AssemblyInfoInputs.cache
+C:\Users\jaden\source\repos\OperationWatergate\OperationWatergate\obj\Debug\net6.0\OperationWatergate.AssemblyInfo.cs
+C:\Users\jaden\source\repos\OperationWatergate\OperationWatergate\obj\Debug\net6.0\OperationWatergate.csproj.CoreCompileInputs.cache
+C:\Users\jaden\source\repos\OperationWatergate\OperationWatergate\obj\Debug\net6.0\OperationWatergate.dll
+C:\Users\jaden\source\repos\OperationWatergate\OperationWatergate\obj\Debug\net6.0\refint\OperationWatergate.dll
+C:\Users\jaden\source\repos\OperationWatergate\OperationWatergate\obj\Debug\net6.0\OperationWatergate.pdb
+C:\Users\jaden\source\repos\OperationWatergate\OperationWatergate\obj\Debug\net6.0\OperationWatergate.genruntimeconfig.cache
+C:\Users\jaden\source\repos\OperationWatergate\OperationWatergate\obj\Debug\net6.0\ref\OperationWatergate.dll
